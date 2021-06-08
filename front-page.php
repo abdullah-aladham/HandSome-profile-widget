@@ -13,6 +13,7 @@
         <nav class="navbar navbar-expand-sm">
             <ul class="navbar-nav">
                 <li class="nav-item"> <a href="#" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">aboutus</a></li>
             </ul>
         </nav>
 
